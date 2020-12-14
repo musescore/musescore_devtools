@@ -1,0 +1,8 @@
+[
+{ ref: libcxx.imp },
+{ ref: stl.c.headers.imp },
+{ ref: gcc.libc.imp },
+{ ref: gcc.stl.headers.imp },
+{ ref: gcc.symbols.imp },
+{ ref: qt5_11.imp }
+]
